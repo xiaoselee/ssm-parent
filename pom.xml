@@ -20,7 +20,7 @@
 		<freemarker.version>2.3.23</freemarker.version>
 		<mybatis.version>3.5.6</mybatis.version>
 		<pagehelper.version>5.1.2</pagehelper.version>
-		<guava.version>23.6-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<jsqlparser.version>1.0</jsqlparser.version>
 		<logback.version>1.1.1</logback.version>
 		<logback-ext-spring.version>0.1.4</logback-ext-spring.version>
